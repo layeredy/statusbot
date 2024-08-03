@@ -1,0 +1,27 @@
+{
+  "discord_token": "YOUR_BOT_TOKEN",
+  "channel_id": "CHANNELID",
+  "ping_interval": 45,
+  "services": [
+    {
+      "name": "Layeredy",
+      "url": "https://layeredy.com",
+      "keyword": "Layeredy"
+    },
+    {
+      "name": "Owehost",
+      "url": "https://owehost.com",
+      "keyword": "Layeredy"
+    },
+    {
+      "name": "Encoded",
+      "url": "https://encoded.sh",
+      "status_code": 200
+    },
+    {
+      "name": "Average",
+      "url": "https://averagebot.com",
+      "status_code": 200
+    }
+  ]
+}
